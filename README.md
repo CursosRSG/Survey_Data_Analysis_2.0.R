@@ -1,1 +1,1 @@
-Script used in the analysis of google forms data collected via RSG-Brazil.
+Script used in the analysis of google forms data collected via RSG-Brazil and the generation of images used in the article "Seven Domain Topics in Bioinformatics Education: Refining the ISCB Core Competencies to Access Diversity in Training"
